@@ -96,7 +96,7 @@ function Section1() {
                         <Button variant={'outline'}>XXL</Button>
                     </Flex>
                     <Text>
-                        <a href='#'>View Size Guide</a>
+                        <a href='/'>View Size Guide</a>
                     </Text>
                 </Box>
                 <Box>
